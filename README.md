@@ -1,7 +1,7 @@
 # Natours
 App which allows its users to book various tours.
 
-### The app is in development stage and at current allows the user to make API calls to variuos routes.
+### The app is in development stage and at current allows the user to make API calls to various routes.
 
 Some of the features of the apps are listed below :
 
