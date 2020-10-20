@@ -48,9 +48,10 @@ Some of the features of the apps are listed below :
 ---------------------------------------------
 
 <h3>Other feature includes:</h3>    
-  - Booking Tours
-  - Using JSON Web Token for authorization.
-  - Reset Password
+
+- Booking Tours
+- Using JSON Web Token for authorization.
+- Reset Password
   
   
   
